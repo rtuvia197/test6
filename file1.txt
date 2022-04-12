@@ -1,1 +1,2 @@
 first line for file1.txt
+second line for fiel1.rxr
